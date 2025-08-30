@@ -754,6 +754,7 @@ input, textarea {
     display: block;
     width: 95%; 
     margin: 5px auto 10px auto;
+    margin-left:-11px;
   }
 }
 
